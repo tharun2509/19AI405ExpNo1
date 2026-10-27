@@ -118,8 +118,8 @@ if __name__ == "__main__":
     health_monitoring_agent.monitor_health()
 ```
 ## OUTPUT:
-<img width="697" height="507" alt="image" src="https://github.com/user-attachments/assets/f01371fd-2a8f-4a44-8382-916b3278dbf7" />
-<img width="676" height="407" alt="image" src="https://github.com/user-attachments/assets/f5a679ac-280f-49d4-a950-6ef0d6e098c8" />
+<img width="557" height="232" alt="image" src="https://github.com/user-attachments/assets/874177b0-bac0-4d97-92bc-0a939365bf69" />
+
 
 
 
