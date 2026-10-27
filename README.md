@@ -1,6 +1,7 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Tharun DP</h3>
-<h3>Register Number: 212225240172
+<h3>Name: THARUN DP</h3>
+<h3>Register Number: 212225240172</h3>
+<h3>DATE : 15/10/2026</h3>
 
 
 <h3>AIM:</h3>
@@ -40,8 +41,10 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-<br>
-<h3>Program:</h3>
+
+
+
+## Program:
 ```
 import random
 
@@ -101,7 +104,7 @@ class HealthActuators:
 if __name__ == "__main__":
     patient_data = {
         'patient_id': 1007,
-        'name': 'THARUN ',
+        'name': 'THARUN DP ',
         'age': 18
     }
 
@@ -114,3 +117,11 @@ if __name__ == "__main__":
 
     health_monitoring_agent.monitor_health()
 ```
+## OUTPUT:
+<img width="697" height="507" alt="image" src="https://github.com/user-attachments/assets/f01371fd-2a8f-4a44-8382-916b3278dbf7" />
+<img width="676" height="407" alt="image" src="https://github.com/user-attachments/assets/f5a679ac-280f-49d4-a950-6ef0d6e098c8" />
+
+
+
+## RESULT:
+Thus, developed AI agent with PEAS.
